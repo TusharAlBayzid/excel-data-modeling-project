@@ -42,3 +42,12 @@ The main **Dashboard** view provides critical retail insights at a glance:
 1. Clone or download this repository.
 2. Open `module-4-power-pivot-model.xlsx` using Microsoft Excel (Excel 2016 or newer with Power Pivot enabled is recommended).
 3. Navigate to the **Dashboard** sheet to interact with the visualizations.
+
+
+## 👨‍💻 Author
+
+**Bayzid Mostak**<br>
+*Data Analyst & Visualization Expert*
+
+*   [LinkedIn] https://www.linkedin.com/in/bayzid-mostak-data-analyst/
+*   [GitHub] https://github.com/TusharAlBayzid
